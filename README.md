@@ -1,6 +1,6 @@
 # Olá! Me chamo Pedro Aguiar.
 
-### Atualmente trabalho com comunicação, mas buscando a mudança para área de Desenvolvimento. Estou cursando o 3º período de Análise e Desenvolvimento de Sistemas pela Estácio e estudo programação Fullstack.
+### Desde criança, sempre fui fascinado por inovação. Iniciei no mercado bem cedo, mas só me encontrei mesmo quando mergulhei no mundo da tecnologia. Adoro estudar programação e estou buscando por experiências que me tirem da zona de conforto! Estou cursando o 3º período de Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/pedroaguiar0">
